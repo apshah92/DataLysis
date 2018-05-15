@@ -10,11 +10,11 @@ import string
 class TwitterClient(object):
     
     def __init__(self):        
-        # keys and tokens from the Twitter Dev Console
-        consumer_key = "l9WOC16AZsDQoTU9x0zJuUwZG"
-        consumer_secret = "Vm3Z59kZzqNDy7H2PpLOLkaMw23AFlc8CBSi0d1fhsv74BpefL"
-        access_token = "2336428303-gkfSgaup0HgTqBSbdubDK6nzxmoFr73fIZPKdbp"
-        access_token_secret = "sNMZuvu7rDFbwCDPNsKLoctbDIvVZSYKpq3xevv7Znxuh"
+        # input keys and tokens from the Twitter Dev Console here
+        consumer_key = ""
+        consumer_secret = ""
+        access_token = ""
+        access_token_secret = ""
         
         # attempt authentication
         try:
